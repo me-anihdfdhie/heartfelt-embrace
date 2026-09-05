@@ -2,7 +2,7 @@
 
 ## What I’ll build
 - Replace the blank page with a full-screen, phone-friendly apology experience in warm pearl, blush, burgundy, and soft gold.
-- Begin with an interactive sealed envelope; opening it reveals the letter with layered paper, glass, subtle hearts, and handwritten accents.
+- Build one continuous story from all three supplied heroes: a scroll-locked, immersive opening with the interactive sealed envelope, the smooth-scroll clipped reveal carrying the letter into view, and the handwriting hero animating its most personal lines; adapt the supplied video/music hero’s depth, tilt, momentum, glass controls, and full-bleed/mobile treatment meaningfully to this apology rather than replacing it with a generic card.
 - Present the supplied apology text clearly, followed by the “Am I forgiven?” choice.
 - Add multiple distinct, increasingly earnest but respectful responses to “NO”; the final retry replaces both choices with “YES”.
 - Make either “YES” trigger a large celebration and the requested thank-you message.
